@@ -1,5 +1,5 @@
 # meme picker
-A meme picker with HTML, CSS and Vanilla JavaScript.
+A meme picker build with HTML, CSS and Vanilla JavaScript.
 
 View the finished project on [Netlify](https://memepickerr.netlify.app/)!
 
